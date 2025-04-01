@@ -1,0 +1,16 @@
+# is there any git file inside of a project?
+**./.git
+
+# gradle files
+**./gradle
+**./gradlew
+**./gradlew.bat
+**./build
+**./*.log
+**./*.class
+**./.idea/
+**./*.iml
+
+# gradle basic project
+**./app/bin
+**./app/build
